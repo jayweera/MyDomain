@@ -1,0 +1,12 @@
+{
+  "name": "My Domain Sample",
+  "description": "A simple example to brand my Salesforce My Domain",
+  "repository": "https://github.com/jayweera/MyDomain",
+  "website": "https://www.salesforce.com/platform/identity",
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "keywords": ["salesforce"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+  }
+}
